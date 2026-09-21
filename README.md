@@ -1,0 +1,33 @@
+# Rock, Paper, Scissors in Dart
+
+## Name
+Your Name
+
+## Course/Year/Section
+BSIT 3 - LGX3
+
+## Description
+This is a simple two-player Rock, Paper, Scissors game
+created using Dart. The players enter their names and
+choose between rock, paper, or scissors.
+
+The program also keeps track of the score and allows
+the players to play multiple rounds.
+
+## How to Run
+
+1. Open the project folder in VS Code.
+2. Open the terminal.
+3. Run the following command:
+
+dart rock_paper_scissors.dart
+
+## Features
+
+- Two-player game
+- Player name input
+- Rock, Paper, Scissors moves
+- Move validation
+- Score tracking
+- Play again option
+- Final winner
