@@ -1,10 +1,10 @@
 # Rock, Paper, Scissors in Dart
 
 ## Name
-Shiela Ytac
+Shiela Achelle Mae B. Ytac
 
-## Course/Year/Section
-BSIT/ 2/LGX3
+Year/Section
+ 2/LGX3
 
 ## Description
 This is a simple two-player Rock, Paper, Scissors game made using Dart.
