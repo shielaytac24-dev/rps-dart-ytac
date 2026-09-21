@@ -4,7 +4,7 @@
 Shiela Achelle Mae B. Ytac
 
 Year/Section
- 2/LGX3
+ 3/ A-2
 
 ## Description
 This is a simple two-player Rock, Paper, Scissors game made using Dart.
